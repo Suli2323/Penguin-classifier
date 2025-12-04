@@ -1,0 +1,19 @@
+# Penguin Species Classifier
+
+This is a simple Python project I made while learning programming.
+
+The program asks the user for two numbers:
+- bill length
+- bill depth
+
+Then it uses simple if/else rules to guess the penguin's species.
+
+This helped me practice:
+- user input
+- variables
+- lists and dictionaries
+- if and elif conditions
+
+To run the program:
+1. Open a terminal
+2. Type: python penguin_classifier.py

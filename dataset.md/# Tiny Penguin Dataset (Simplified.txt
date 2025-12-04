@@ -1,0 +1,11 @@
+# Tiny Penguin Dataset (Simplified Example)
+
+These are rough average measurements that inspired the simple rules:
+
+| Species    | Bill Length (mm) | Bill Depth (mm) |
+|----------- |------------------|-----------------|
+| Adelie     | 38               | 19              |
+| Chinstrap  | 48               | 18              |
+| Gentoo     | 50               | 15              |
+
+These values are only for practice and are not scientific.
